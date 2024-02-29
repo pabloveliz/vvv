@@ -1,0 +1,1507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VVV 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-29 11:21+0100\n"
+"PO-Revision-Date: 2023-09-29 11:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: Z:\\Sviluppo_C++\\VVV\\src\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: Z:\\Sviluppo_C++\\VVV\\src\n"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:177
+msgid "Enter or select the volume to catalog"
+msgstr "Vložte nebo vyberte svazek ke katalogizaci"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:186
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:222
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:173
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:166
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:178
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:195
+msgid "..."
+msgstr "..."
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:189
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:386
+msgid "Volume name"
+msgstr "Jméno svazku"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:199
+msgid "Get volume name"
+msgstr "Získej jméno svazku"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:207
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:172
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:229
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:247
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:897
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:185
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:203
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:201
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:141
+msgid "&Help"
+msgstr "&Nápověda"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:212
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:910
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4207
+msgid "Catalog"
+msgstr "Katalogizace"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:215
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:209
+msgid "&Close"
+msgstr "&Zavřít"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:218
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:212
+msgid "Current folder"
+msgstr "Aktuální adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:221
+msgid "Previously cataloged volumes"
+msgstr "Dříve katalogizované svazky"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:291
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:267
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:404
+msgid "The volume path is missing"
+msgstr "Chybí cesta ke svazku"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:296
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:400
+msgid "The volume name is missing"
+msgstr "Chybí jméno svazku"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:313
+msgid "This volume name is already present in the database"
+msgstr "Toto jméno svazku již v databázi existuje"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:360
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:294
+msgid "Select the volume to catalog"
+msgstr "Vyberte svazek ke katalogizaci"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:341
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:335
+msgid "Number of added files: "
+msgstr "Počet přidaných souborů:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:342
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:336
+msgid "Number of updated files: "
+msgstr "Počet aktualizovaných souborů:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:343
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:337
+msgid "Number of deleted files (not counting those in deleted folders): "
+msgstr ""
+"Počet smazaných souborů (nepočítají se soubory ve smazaných adresářích):"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:344
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:338
+msgid "Number of deleted folders: "
+msgstr "Počet smazaných adresářů:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:345
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:339
+msgid "Number of unchanged files: "
+msgstr "Počet nezměněných souborů:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:346
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:340
+msgid "Do you really want to update the volume?"
+msgstr "Opravdu chcete svazek aktualizovat?"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:77
+#, c-format
+msgid "Unknown locale code '%s' in registry."
+msgstr "Neznámý kód jazyka '%s' v registru."
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:94
+msgid "(Use default language)"
+msgstr "(Použij výchozí jazyk)"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:96
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2479
+msgid "Bulgarian"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:97
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2463
+#, fuzzy
+msgid "Chinese"
+msgstr "Kanály"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:98
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2474
+msgid "Croatian"
+msgstr "Chorvatsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:99
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2469
+msgid "Czech"
+msgstr "Česky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:100
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2480
+msgid "Dutch"
+msgstr "Holandsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:101
+msgid "English"
+msgstr "Anglicky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:102
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2466
+msgid "French"
+msgstr "Francouzsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:103
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2467
+msgid "German"
+msgstr "Německy"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:104
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2468
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2471
+msgid "Hungarian"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:105
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2477
+msgid "Italian"
+msgstr "Italsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:106
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2476
+msgid "Japanese"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:107
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2470
+msgid "Polish"
+msgstr "Polsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:108
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2464
+msgid "Portuguese"
+msgstr "Portugalsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:109
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2478
+msgid "Romanian"
+msgstr "Rumunsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:110
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2472
+msgid "Russian"
+msgstr "Rusky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:111
+msgid "Serbian (cyrillic)"
+msgstr "Srbsky (cyrilice)"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:112
+msgid "Serbian (latin)"
+msgstr "Srbsky (latinka)"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:113
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2465
+msgid "Spanish"
+msgstr "Španělsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:114
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2473
+msgid "Ukrainian"
+msgstr "Ukrajinsky"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:123
+msgid "Select your preferred language"
+msgstr "Vyberte preferovaný jazyk"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:124
+msgid "Language selection"
+msgstr "Výběr jazyka"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:138
+msgid "You must restart the program for this change to take effect."
+msgstr "Aby se vaše změna projevila, musíte program restartovat."
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:162
+msgid ""
+"Please select the virtual folder that will receive the selected files and/or "
+"folders:"
+msgstr ""
+"Prosím vyberte virtuální adresář do kterého chcete vložit vybrané soubory a/"
+"nebo adresáře:"
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:174
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:192
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:166
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:234
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:255
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:159
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:175
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:180
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:196
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:190
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:211
+msgid "&OK"
+msgstr "&OK"
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:178
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:189
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:169
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:238
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:252
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:163
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:172
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:184
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:193
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:194
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:208
+msgid "&Cancel"
+msgstr "&Zrušit"
+
+#: Z:\Sviluppo_C++\VVV\src/convert_db_unicode.cpp:520
+msgid ""
+"Conversion is about to start: a message will tell you when it will be "
+"completed."
+msgstr "Začínám konvertovat. Po dokončení bude zobrazena zpráva."
+
+#: Z:\Sviluppo_C++\VVV\src/convert_db_unicode.cpp:546
+msgid "Conversion completed"
+msgstr "Konverze hotová"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:157
+#, fuzzy
+msgid "Description:"
+msgstr "Popis"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:257
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1332
+msgid "Name"
+msgstr "Jméno"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:261
+#, fuzzy
+msgid "Value"
+msgstr "Svazek"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:312
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1458
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:253
+msgid "Channels"
+msgstr "Kanály"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:314
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1453
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:249
+msgid "Sample rate"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:316
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1448
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:245
+msgid "Bitrate"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:317
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1443
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:241
+msgid "Length"
+msgstr "Délka"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:318
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1438
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:237
+msgid "Genre"
+msgstr "Žánr"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:320
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1433
+msgid "Number"
+msgstr "Stopa"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:321
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1428
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:229
+msgid "Comment"
+msgstr "Komentář"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:323
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1423
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:225
+msgid "Year"
+msgstr "Rok"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:324
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1418
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:221
+msgid "Title"
+msgstr "Název"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:325
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1413
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:217
+msgid "Album"
+msgstr "Album"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:326
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1408
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:213
+msgid "Artist"
+msgstr "Umělec"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:331
+#, fuzzy
+msgid "File date"
+msgstr "Jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:333
+#, fuzzy
+msgid "File size"
+msgstr "Jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:333
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:358
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:385
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:400
+msgid "bytes"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:334
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:978
+msgid "File name"
+msgstr "Jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:342
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:367
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:409
+#, fuzzy
+msgid "Virtual path"
+msgstr "Virtuální"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:346
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:371
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:413
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1350
+msgid "Physical path"
+msgstr "Fyzická cesta"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:356
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:398
+#, fuzzy
+msgid "Folder date"
+msgstr "Jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:358
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:400
+#, fuzzy
+msgid "Folder size"
+msgstr "Jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:359
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:401
+#, fuzzy
+msgid "Folder name"
+msgstr "Jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:379
+#, fuzzy
+msgid "Last updated"
+msgstr "Poslední změna"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:382
+#, fuzzy
+msgid "Cataloged"
+msgstr "Katalogizace"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:385
+#, fuzzy
+msgid "Volume size"
+msgstr "&Svazky"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:437
+#, fuzzy
+msgid "Folder information"
+msgstr "Popis &Objektů..."
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:441
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.h:45
+msgid "File information"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:469
+msgid "Copy to clipboard\tCtrl+C"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:190
+msgid "Use this window to export data to a CSV file"
+msgstr "Export dat do CSV souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:194
+msgid "Comma"
+msgstr "Čárka"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:195
+msgid "TAB"
+msgstr "Tabulátor"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:196
+msgid "Pipe"
+msgstr "Svislítko"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:197
+msgid "Separator"
+msgstr "Oddělovač"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:201
+msgid "Include headers"
+msgstr "Začlenit hlavičky"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:206
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1009
+msgid "All physical volumes"
+msgstr "Všechny fyzické svazky"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:207
+msgid "Selected physical volume/folder"
+msgstr "Vybraný fyzický svazek/adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:208
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1011
+msgid "Selected virtual folder"
+msgstr "Vybraný virtuální adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:209
+msgid "Export"
+msgstr "Export"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:213
+msgid "File name:"
+msgstr "Jméno souboru:"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:308
+msgid "CSV files (*.csv;*.txt)|*.csv;*.txt|All files (*.*)|*.*"
+msgstr "CSV soubory (*.csv;*.txt)|*.csv;*.txt|Všechny soubory (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:335
+msgid "Please enter a file name"
+msgstr "Prosím vložte jméno souboru"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:340
+msgid "The output file already exists: do you want to overwrite it?"
+msgstr "Výstupní soubor již existuje. Chcete jej přepsat?"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:343
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:357
+msgid "Unable to create the file."
+msgstr "Nemohu vytvořit soubor."
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1337
+msgid "Size"
+msgstr "Velikost"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1341
+msgid "Ext"
+msgstr "Přípona"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1345
+msgid "Last modified"
+msgstr "Poslední změna"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+msgid "PhysicalPath"
+msgstr "Fyzická cesta"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:999
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1353
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1358
+msgid "Description"
+msgstr "Popis"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+msgid "Volume"
+msgstr "Svazek"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+msgid "Path"
+msgstr "Cesta"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:777
+msgid ""
+"This catalog file does not exist:\n"
+"\n"
+msgstr ""
+"Tento soubor katalogu neexistuje:\n"
+"\n"
+
+# Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:839
+msgid "&New..."
+msgstr "&Nový..."
+
+# Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:840
+msgid "&Open..."
+msgstr "&Otevřít..."
+
+# Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:841
+msgid "&Export..."
+msgstr "&Exportovat..."
+
+# Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:843
+msgid "&Backup..."
+msgstr "&Zálohovat..."
+
+# Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:844
+msgid "&Restore..."
+msgstr "O&bnovit..."
+
+# Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:846
+msgid "E&xit"
+msgstr "&Konec"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:847
+msgid "&File"
+msgstr "&Soubor"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:849
+msgid "&Add To Virtual Folder..."
+msgstr "&Přidat do virtuálního adresáře..."
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:851
+msgid "&Rename...\tF2"
+msgstr "Př&ejmenovat...\tF2"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:852
+msgid "&Delete"
+msgstr "&Smazat"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:854
+#, fuzzy
+msgid "&Object Information..."
+msgstr "Popis &Objektů..."
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:856
+msgid "&New Virtual Root Folder..."
+msgstr "Nový Virtuální &Kořenový Adresář"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:857
+msgid "New Virtual &Subfolder..."
+msgstr "&Nový Virtuální Podadresář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:859
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:888
+msgid "&Options..."
+msgstr "&Nastavení..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:861
+msgid "&Edit"
+msgstr "&Editace"
+
+# Part of the Volumes menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:863
+msgid "&Catalog Volume..."
+msgstr "&Katalogizuj svazek..."
+
+# Part of the Volumes menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:864
+msgid "&Update Volume..."
+msgstr "&Aktualizuj svazek..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:865
+msgid "&Volumes"
+msgstr "&Svazky"
+
+# Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:867
+msgid "&Physical View"
+msgstr "&Fyzické zobrazení"
+
+# Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:869
+msgid "&Virtual View"
+msgstr "&Virtuální zobrazení"
+
+# Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:870
+msgid "&Search View"
+msgstr "V&yhledávání"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:872
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3310
+msgid "Show in physical view"
+msgstr "Zobraz ve fyzickém zobrazení"
+
+# Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:873
+msgid "Go &Up One Level"
+msgstr "&Jdi o úroveň výše"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:874
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2711
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2744
+msgid "Expand"
+msgstr "Rozvinout"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:875
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2712
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2745
+msgid "Collapse"
+msgstr "Svinout"
+
+# Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:877
+msgid "&Toolbar"
+msgstr "&Nástrojová lišta"
+
+# Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:879
+msgid "Status &Bar"
+msgstr "&Stavová lišta"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:881
+msgid "Vie&w"
+msgstr "&Zobrazení"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:883
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3319
+msgid "Open with default program"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:890
+msgid "&Tools"
+msgstr "&Nástroje"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:892
+msgid "Help &Contents"
+msgstr "Obsah &nápovědy"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:896
+msgid "&About VVV..."
+msgstr "&O aplikaci VVV..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:904
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4201
+msgid "New"
+msgstr "Nový"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:904
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4201
+msgid "Create a new catalog"
+msgstr "Vytvoř nový katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:907
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4204
+msgid "Open"
+msgstr "Otevři"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:907
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4204
+msgid "Open an existing catalog"
+msgstr "Otevři existující katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:910
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4207
+msgid "Catalog a new volume"
+msgstr "Katalogizovat nový svazek"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:913
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4210
+msgid "Up"
+msgstr "Nahoru"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:913
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4210
+msgid "Move up one level"
+msgstr "Přesuň se o úroveň výše"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:917
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4214
+msgid "Physical"
+msgstr "Fyzický"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:917
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4214
+msgid "Show the physical view"
+msgstr "Přepni na fyzické zobrazení"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:920
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4217
+msgid "Virtual"
+msgstr "Virtuální"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:920
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4217
+msgid "Show the virtual view"
+msgstr "Přepni na virtuální zobrazení"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:923
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1012
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1018
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4220
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:923
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4220
+msgid "Show the search view"
+msgstr "Přepni na vyhledávání"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:975
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:996
+msgid "Is equal to:"
+msgstr "Je stejný jako:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:976
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:997
+msgid "Starts with:"
+msgstr "Začíná na:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:977
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:998
+msgid "Contains:"
+msgstr "Obsahuje:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:987
+msgid "Extension:"
+msgstr "Přípona:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1010
+msgid "Selected physical folder"
+msgstr "Vybraný fyzický adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1487
+msgid "Open catalog"
+msgstr "Otevři katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1491
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3794
+msgid "VVV  files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV  soubory (*.vvv)|*.vvv|Všechny soubory (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2064
+msgid "New virtual root folder"
+msgstr "Nový virtuální kořenový adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2092
+msgid "New virtual subfolder"
+msgstr "Nový virtuální podadresář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2110
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3552
+msgid "Enter the new folder name"
+msgstr "Vložte jméno nového adresáře"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2125
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3563
+msgid "The new folder name is already present in the database"
+msgstr "Adresář s tímto jménem již v databázi existuje"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2178
+msgid "This catalog file does not exist any more"
+msgstr "Soubor katalogu s tímto jménem neexistuje"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2208
+msgid ""
+"Catalog not found:\n"
+"\n"
+msgstr ""
+"Katalog nenalezen:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2212
+msgid ""
+"Incorrect username or password for the following database:\n"
+"\n"
+msgstr ""
+"Špatné uživatelské jméno nebo heslo pro následující databázi:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2217
+msgid ""
+"Unable to connect to the following server:\n"
+"\n"
+msgstr ""
+"Nelze se připojit k následujícímu serveru:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2219
+msgid ""
+"Unable to open the catalog.\n"
+"Please note that you are not connected to a database server so you cannot "
+"open a catalog located on another computer in the network.\n"
+"If you want to open a catalog on another computer you must connect to the "
+"database server (Tools/Options menu)."
+msgstr ""
+"Nelze otevřít katalog.\n"
+"Prosím vezměte v úvahu že nejste připojen k databázovému serveru takže "
+"nemůžete otevírat katalogy umístěné na jiném počítači v síti.\n"
+"Pokud chcete otevřít katalog na jiném počítači, musíte se připojit k "
+"databázovému serveru (menu: Nástroje/Nastavení)."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2241
+msgid ""
+"This catalog has been created with a previous version of the program and it "
+"needs to be upgraded, but the file containing the upgrades list is missing.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Tento katalog byl vytvořen předchozí verzí tohoto programu a potřebuje být "
+"aktualízován. Ale soubor obsahující seznam aktualizací chybí.\n"
+"\n"
+"Můžete zkusit přeinstalovat tento program k vyřešení problému."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2245
+msgid "Upgrading the catalog, please wait..."
+msgstr "Aktualizuji katalog, prosim počkejte..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2257
+msgid ""
+"This catalog has been created with an older version of VVV so you need to "
+"convert it to a newer format.\n"
+"\n"
+msgstr ""
+"Tento katalog byl vytvořen starší verzí VVV a potřebuje být zkonvertován na "
+"novější formát.\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2258
+msgid ""
+"The conversion will create a new catalog with the same data as the older "
+"one, then you will use this new catalog with VVV. You will not use the older "
+"catalog any more.\n"
+"\n"
+msgstr ""
+"Konverze vytvoří nový katalog se stejným jménem jako starý. Potom můžete "
+"používat nový katalog s VVV a nebudete již více používat starý katalog.\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2259
+#, fuzzy
+msgid "Do you want to convert the catalog creating a new one?"
+msgstr "Chcete zkonvertovat katalog do nového?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2263
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2492
+msgid ""
+"Unable to create a new catalog.\n"
+"\n"
+"You are connecting to a database server on another computer. You must "
+"execute this program on the server to be able to create a new catalog."
+msgstr ""
+"Nelze vytvořit nový katalog.\n"
+"\n"
+"Připojujete se k databázovému serveru na jiném počítači. Musíte spustit "
+"tento program na serveru abyste mohl vytvořit nový katalog."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2267
+msgid "Convert to a new catalog"
+msgstr "Zkonvertuj do nového katalogu"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2275
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2504
+msgid ""
+"Unable to find the database backup to restore.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Nelze najít zálohu databáze k obnovení.\n"
+"\n"
+"Můžete zkusit přeinstalovat tento program k vyřešení problému"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2457
+msgid ""
+"VVV (Virtual Volumes View): a program to catalog removable devices like CDs "
+"and DVDs"
+msgstr ""
+"VVV (Virtual Volumes View): program ke katalogizaci výměnných médií jako "
+"jsou disky CD a DVD"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2458
+#, fuzzy
+msgid "Copyright (C) 2007-2023 The VVV Team"
+msgstr "Copyright (C) 2007-2010 VVV tým"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2459
+msgid "Fulvio Senore: main developer"
+msgstr "Fulvio Senore: hlavní vývojář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2460
+msgid ""
+"\n"
+"Jan Albartus: worked at the portable version and designed the application's "
+"icon"
+msgstr ""
+"\n"
+"Jan Albartus: pracuje na přenositelné verzi a navrhuje ikony aplikace"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2461
+msgid ""
+"This program uses icons from the Gnome, Ubuntu and Crystal icons projects"
+msgstr "Tento program používá ikony z Gnome, Ubuntu a Crystal icons projektů"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2462
+msgid ""
+"This is open source software, distributed under the GNU GENERAL PUBLIC "
+"LICENSE"
+msgstr ""
+"Toto je open source software, distribuovaný pod GNU GENERAL PUBLIC LICENCÍ"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2475
+msgid "Serbian"
+msgstr "Srbsky"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2496
+msgid "New catalog"
+msgstr "Nový katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2546
+msgid "Multiple items"
+msgstr "Více položek"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2709
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3316
+msgid "Add To Virtual Folder"
+msgstr "Přidej do Virtuálního adresáře"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2714
+#, fuzzy
+msgid "Object information..."
+msgstr "Popis &Objektů..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2717
+msgid "Rename..."
+msgstr "Přejmenovat..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2718
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2749
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3312
+msgid "Delete"
+msgstr "Smazat"
+
+# Part of the Volumes menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2719
+msgid "Update Volume..."
+msgstr "&Aktualizuj svazek..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2742
+msgid "New Subfolder"
+msgstr "Nový Podadresář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2748
+msgid "Rename"
+msgstr "Přejmenovat"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2890
+msgid "Please enter some search data"
+msgstr "Prosím vložte nějaká vyhledávací kriteria"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2909
+msgid "Incorrect file name search data"
+msgstr "Nesprávné jméno souboru ve vyhledávacích kritériích"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2920
+msgid "Incorrect extension search data"
+msgstr "Nesprávná přípona ve vyhledávacích kritériích"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2932
+msgid "Incorrect description search data"
+msgstr "Nesprávný popis ve vyhledávacích kritériích"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3043
+msgid "The search did not find anything"
+msgstr "Nic nebylo nalezeno"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3202
+msgid "Objects: "
+msgstr "Objekty:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3209
+msgid "Total size: "
+msgstr "Celková velikost:"
+
+# Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3322
+#, fuzzy
+msgid "Object Information..."
+msgstr "Popis &Objektů..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3460
+msgid ""
+"This command will delete the selected virtual folder, but it will not change "
+"the folders in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual folder?"
+msgstr ""
+"Příkaz smaže vybraný virtuální adresář, ale nezmění adresáře ve fyzickém "
+"zobrazení.\n"
+"\n"
+"Opravdu chcete smazat vybraný virtuální adresář?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3486
+msgid ""
+"This command will delete this volume:\n"
+"\n"
+msgstr ""
+"Tento příkaz smaže svazek:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3486
+msgid ""
+"\n"
+"\n"
+"from the VVV catalog. It will not delete any file from your disk.\n"
+"\n"
+"Do you really want to delete this volume?"
+msgstr ""
+"\n"
+"\n"
+"z VVV katalogu. Nesmaže žádný soubor z vašeho disku.\n"
+"\n"
+"Opravdu chcete smazat tento svazek?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3496
+msgid ""
+"Unable to delete this volume: at least one of its files is used in the "
+"virtual view"
+msgstr ""
+"Nelze smazat tento svazek: nejméně jeden z jeho souborů je použitý ve "
+"vituálním zobrazení"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3518
+msgid "Enter the new volume name"
+msgstr "Vložte jméno nového svazku"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3518
+msgid "Rename volume"
+msgstr "Přejmenovat svazek"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3531
+msgid "The new volume name is already present in the database"
+msgstr "Toto jméno nového svazku již v databázi existuje"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3552
+msgid "Rename virtual folder"
+msgstr "Přejmenovat virtuální adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3675
+#, fuzzy
+msgid ""
+"This command will delete the selected files from the virtual view, but it "
+"will not change the files in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual files?"
+msgstr ""
+"Tento příkaz smaže vybrané virtuální soubory, ale nezmění soubory ve "
+"fyzickém zobrazení.\n"
+"\n"
+"Opravdu chcete smazat vybrané virtuální soubory?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3817
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3894
+msgid ""
+"Unable to continue. You have choosen an existing file:\n"
+"\n"
+msgstr ""
+"Nemohu pokračovat. Zvolil jste existující soubor:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3817
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3894
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3976
+msgid ""
+"\n"
+"\n"
+"You must type the name of a non-existing file."
+msgstr ""
+"\n"
+"\n"
+"Musíte napsat jméno neexistujícího souboru."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3826
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3903
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3985
+msgid ""
+"Unable to continue: you have choosen a folder where you do not have the "
+"right to create a file."
+msgstr ""
+"Nelze pokračovat: zvolil jste adresář ve kterém nemáte oprávnění vytvářet "
+"soubory."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3871
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:254
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:285
+msgid "VVV backup files (*.vvvbk)|*.vvvbk|All files (*.*)|*.*"
+msgstr "VVV soubory zálohy (*.vvvbk)|*.vvvbk|Všechny soubory (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3872
+msgid "Backup catalog"
+msgstr "Zálohovat katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3917
+msgid "Backup completed"
+msgstr "Záloha dokončena"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3940
+msgid ""
+"Unable to restore.\n"
+"\n"
+"You are connecting to a database server on another computer. You must "
+"execute this command on the server to be able to restore a catalog."
+msgstr ""
+"Nelze obnovit.\n"
+"\n"
+"Připojujete se k databázovému serveru na jiném počítači. Musíte spustit "
+"tento program na serveru abyste byl schopen obnovit katalog."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3954
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:396
+msgid "The catalog name is missing"
+msgstr "Chybí jméno katalogu"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3958
+msgid "The backup name is missing"
+msgstr "Chybí jméno zálohy"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3976
+msgid ""
+"Unable to continue. You have choosen an existing catalog:\n"
+"\n"
+msgstr ""
+"Nelze pokračovat. Vybral jste existující katalog:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4013
+msgid "Restore completed"
+msgstr "Obnova dokončena"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4423
+#, fuzzy
+msgid ""
+"This volume has been cataloged with an older version of VVV. You need to "
+"update it in order to open files."
+msgstr ""
+"Tento katalog byl vytvořen starší verzí VVV a potřebuje být zkonvertován na "
+"novější formát.\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4444
+#, fuzzy
+msgid "Unable to find the folder:"
+msgstr "Nemohu vytvořit soubor."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4450
+#, fuzzy
+msgid "Unable to find the file:"
+msgstr "Nemohu vytvořit soubor."
+
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:146
+msgid "Please enter the description for the following object:"
+msgstr "Prosím vložte popis následujících objektů:"
+
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:149
+msgid "OBJECT NAME"
+msgstr "JMÉNO OBJEKTU"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:162
+msgid ""
+"You are about to open a catalog located on the server.\n"
+"\n"
+"Enter the alias or the complete path to the catalog file.\n"
+"Remember that the path must be relative to the server, not to the client."
+msgstr ""
+"Chystáte se otevřít katalog uložený na serveru.\n"
+"\n"
+"Vložte alias nebo kompletní cestu k souboru katalogu.\n"
+"Pamatujte že cesta musí být relativní vzhledem k serveru, ne ke klientovi."
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:256
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:303
+msgid "VVV files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV soubory (*.vvv)|*.vvv|Všechny soubory (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:276
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.h:63
+msgid "Open Catalog"
+msgstr "Otevřít katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:280
+msgid "New Catalog"
+msgstr "Nový katalog"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:284
+msgid "Backup"
+msgstr "Zálohovat"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:152
+msgid ""
+"You are about to create a new catalog from a backup file.\n"
+"\n"
+"Enter the complete path to the backup file and to the catalog file that will "
+"be created.\n"
+"You cannot enter the name of an existing catalog."
+msgstr ""
+"Chystáte se vytvořit nový katalog ze souboru zálohy.\n"
+"\n"
+"Vložte kompletní cestu k souboru zálohy a souboru katalogu který bude "
+"vytvořen.\n"
+"Nelze vložit jméno existujícího katalogu."
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:157
+msgid "Backup file:"
+msgstr "Soubor zálohy:"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:169
+msgid "New catalog:"
+msgstr "Nový katalog:"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:284
+msgid "Select backup file"
+msgstr "Vyberte soubor zálohy"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:302
+msgid "Catalog file"
+msgstr "Soubor katalogu"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:175
+msgid "Reopen the last used catalog at startup"
+msgstr "Při spuštění otevřít naposledy použitý katalog."
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:179
+msgid "Alternate row colors"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:185
+msgid "Beep for tasks longer than (seconds):"
+msgstr "Pípnout při úlohách delších než (vteřiny):"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:193
+msgid "Change language"
+msgstr "Změna jazyka"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:196
+msgid "General"
+msgstr "Obecné"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:204
+#, fuzzy
+msgid "Catalog audio metadata"
+msgstr "Katalogizuj svazek"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:210
+#, fuzzy
+msgid "Show the following data for audio files:"
+msgstr "Zobraz následující data pro MP3 soubory:"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:233
+msgid "Track number"
+msgstr "Číslo stopy"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:259
+msgid "Audio files"
+msgstr ""
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:267
+msgid ""
+"Check the checkbox below if you want to access catalogs stored\n"
+"in a network server. Each computer in the network will be able to\n"
+"access the same catalogs stored in the server.\n"
+"DO NOT check the checkbox if you only want to access catalogs\n"
+"stored in this computer and you do not want to share them\n"
+"with other computers."
+msgstr ""
+"Zaškrtněte pokud chcete mít přístup ke katalogům uložených\n"
+"na síťovém serveru. Každý počítač v síti pak bude moci přistupovat\n"
+"ke stejným katalogům uloženým na serveru.\n"
+"NEZAŠKRTÁVEJTE pokud chcete přistupovat jenom ke katalogům\n"
+"uloženým v tomto počítači a nechcete je sdílet s ostatními \n"
+"počítači."
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:272
+msgid "Connect to a network server"
+msgstr "Připojit k síťovému serveru"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:278
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:303
+msgid "Server"
+msgstr "Server"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:284
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:290
+msgid "Password"
+msgstr "Heslo"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:300
+msgid "Test server connection"
+msgstr "Zkusit připojení k serveru"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:392
+msgid "You must enter a server name or address"
+msgstr "Musíte vložit jméno serveru nebo jeho adresu"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:396
+msgid "You must enter a username"
+msgstr "Musíte vložit uživatelské jméno"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:400
+msgid "You must enter a password"
+msgstr "Musíte vložit heslo"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:463
+msgid "You must enter the server name or address"
+msgstr "Musíte vložit jméno serveru nebo jeho adresu"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:468
+msgid "Unable to connect to the server"
+msgstr "Nelze se připojit k serveru"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:470
+msgid "Server connection successful"
+msgstr "Připojení k serveru bylo úspěšné"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:178
+msgid "You are about to update the following volume:"
+msgstr "Chystáte se aktualizovat následující svazek:"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:181
+msgid "VOLUME NAME"
+msgstr "JMÉNO SVAZKU"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:186
+msgid "Enter or select the path to volume to update"
+msgstr "Vložte nebo vyberte svazek k aktualizaci"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:206
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:300 Z:\Sviluppo_C++\VVV\src/vvv.cpp:356
+msgid ""
+"Unable to connect to the server\n"
+"\n"
+msgstr ""
+"Nelze se připojit k serveru\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:302 Z:\Sviluppo_C++\VVV\src/vvv.cpp:308
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:358 Z:\Sviluppo_C++\VVV\src/vvv.cpp:364
+msgid ""
+"An unexpected error has occurred. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Nastala neočekévaná chyba. Zde je její popis:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:314 Z:\Sviluppo_C++\VVV\src/vvv.cpp:370
+msgid "An unexpected error has occurred. This application will be terminated"
+msgstr "Nastala neočekávaná chyba. Tato aplikace bude ukončena."
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:382 Z:\Sviluppo_C++\VVV\src/vvv.cpp:466
+msgid ""
+"An unexpected error has happened. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Nastala neočekávaná chyba. Zde je její popis:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:408
+msgid "The volume path does not exists"
+msgstr "Cesta ke svazku je neplatná"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:449
+msgid "Volume name not found"
+msgstr "Jméno svazku nenalezeno"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.h:72
+msgid "Catalog volume"
+msgstr "Katalogizuj svazek"
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.h:68
+msgid "Choose virtual folder"
+msgstr "Vyber virtuální adresář"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.h:65
+msgid "Export data"
+msgstr "Exportovat data"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.h:85
+msgid "VVV"
+msgstr "VVV"
+
+#: Z:\Sviluppo_C++\VVV\src/object_description.h:51
+msgid "Object Description"
+msgstr "Popis Objektu"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.h:41
+msgid "Restore"
+msgstr "Obnovit"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.h:56
+msgid "Settings"
+msgstr "Nastavení"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.h:62
+msgid "Update Volume"
+msgstr "Aktualizuj svazek"
+
+#~ msgid "New Root Folder"
+#~ msgstr "Nový Kořenový Adresář"
+
+#~ msgid "Object description"
+#~ msgstr "Popis objektu"
+
+#, fuzzy
+#~ msgid "File description"
+#~ msgstr "Popis objektu"
+
+#~ msgid "Edit Description..."
+#~ msgstr "Změnit popis..."
+
+#~ msgid "MP3"
+#~ msgstr "MP3"
+
+# Please do not translate this sentence
+#~ msgid "Use VVV in English (restart required)"
+#~ msgstr "Use VVV in English (restart required)"
+
+#, fuzzy
+#~ msgid "Missing volume name"
+#~ msgstr "Získej jméno svazku"
+
+#~ msgid "Enter the new forder name"
+#~ msgstr "Vložte jméno nového adresáře"

@@ -1,0 +1,1482 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Project-Id-Version: VVV\n"
+"Language: fr\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:177
+msgid "Enter or select the volume to catalog"
+msgstr "Entrez ou sélectionnez le volume à cataloguer"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:186
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:222
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:173
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:166
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:178
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:195
+msgid "..."
+msgstr "..."
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:189
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:386
+msgid "Volume name"
+msgstr "Nom du volume"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:199
+msgid "Get volume name"
+msgstr "Récupérer le nom du volume"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:207
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:172
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:229
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:247
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:897
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:185
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:203
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:201
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:141
+msgid "&Help"
+msgstr "Aide"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:212
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:910
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4207
+msgid "Catalog"
+msgstr "Cataloguer"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:215
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:209
+msgid "&Close"
+msgstr "Fermer"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:218
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:212
+msgid "Current folder"
+msgstr "Répertoire courant"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:221
+msgid "Previously cataloged volumes"
+msgstr "Volumes précédemment catalogués"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:291
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:267
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:404
+msgid "The volume path is missing"
+msgstr "Le chemin du volume est invalide"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:296
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:400
+msgid "The volume name is missing"
+msgstr "Le nom du volume est invalide"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:313
+msgid "This volume name is already present in the database"
+msgstr "Ce nom de volume existe déjà dans la base de données"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.cpp:360
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:294
+msgid "Select the volume to catalog"
+msgstr "Choisissez le volume à cataloguer"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:341
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:335
+msgid "Number of added files: "
+msgstr "Nombre de fichiers ajoutés:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:342
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:336
+msgid "Number of updated files: "
+msgstr "Nombre de fichiers mis à jour:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:343
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:337
+msgid "Number of deleted files (not counting those in deleted folders): "
+msgstr ""
+"Nombre de fichiers supprimés (sauf ceux qui sont dans les dossiers "
+"supprimés):"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:344
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:338
+msgid "Number of deleted folders: "
+msgstr "Nombre de dossiers supprimés:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:345
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:339
+msgid "Number of unchanged files: "
+msgstr "Nombre de fichiers inchangés:"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume_functions.cpp:346
+#: Z:\Sviluppo_C++\VVV\src/tmp_sorgenti_modificati/catalog_volume_functions.cpp:340
+msgid "Do you really want to update the volume?"
+msgstr "Voulez-vous vraiment mettre ce volume à jour ?"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:77
+msgid "Unknown locale code '%s' in registry."
+msgstr "Le paramètre régional '%s' est inconnu dans la base de registre."
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:94
+msgid "(Use default language)"
+msgstr "(Utiliser la langue par défaut)"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:96
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2479
+#, fuzzy
+msgid "Bulgarian"
+msgstr "Bulgare"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:97
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2463
+msgid "Chinese"
+msgstr "Chinois"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:98
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2474
+msgid "Croatian"
+msgstr "Croate"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:99
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2469
+msgid "Czech"
+msgstr "Tchèque"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:100
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2480
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:101
+msgid "English"
+msgstr "Anglais"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:102
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2466
+msgid "French"
+msgstr "Français"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:103
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2467
+msgid "German"
+msgstr "Allemand"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:104
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2468
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2471
+msgid "Hungarian"
+msgstr "Hongrois"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:105
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2477
+msgid "Italian"
+msgstr "Italien"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:106
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2476
+msgid "Japanese"
+msgstr "Japonais"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:107
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2470
+msgid "Polish"
+msgstr "Polonais"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:108
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2464
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:109
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2478
+msgid "Romanian"
+msgstr "Roumain"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:110
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2472
+msgid "Russian"
+msgstr "Russe"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:111
+msgid "Serbian (cyrillic)"
+msgstr "Serbe (cyrillique)"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:112
+msgid "Serbian (latin)"
+msgstr "Serbe (latin)"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:113
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2465
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:114
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2473
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:123
+msgid "Select your preferred language"
+msgstr "Choisissez votre langue préférée"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:124
+msgid "Language selection"
+msgstr "Sélection de la langue"
+
+#: Z:\Sviluppo_C++\VVV\src/chooselang.cpp:138
+msgid "You must restart the program for this change to take effect."
+msgstr "Vous devez relancer le programme pour valider les changements."
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:162
+#, fuzzy
+msgid ""
+"Please select the virtual folder that will receive the selected files and/or "
+"folders:"
+msgstr ""
+"Veuillez choisir le dossier virtuel qui contiendra les fichiers et/ou "
+"dossiers sélectionnés:"
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:174
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:192
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:166
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:234
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:255
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:159
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:175
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:180
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:196
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:190
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:211
+msgid "&OK"
+msgstr "OK"
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:178
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.cpp:189
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:169
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:238
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:252
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:163
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:172
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:184
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:193
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:194
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:208
+msgid "&Cancel"
+msgstr "Annuler"
+
+#: Z:\Sviluppo_C++\VVV\src/convert_db_unicode.cpp:520
+#, fuzzy
+msgid ""
+"Conversion is about to start: a message will tell you when it will be "
+"completed."
+msgstr ""
+"La conversion va se lancer: un message vous indiquera quand elle sera  finie."
+
+#: Z:\Sviluppo_C++\VVV\src/convert_db_unicode.cpp:546
+msgid "Conversion completed"
+msgstr "La conversion est finie"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:157
+msgid "Description:"
+msgstr "Description:"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:257
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1332
+msgid "Name"
+msgstr "Nom"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:261
+msgid "Value"
+msgstr "Valeur"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:312
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1458
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:253
+msgid "Channels"
+msgstr "Canaux"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:314
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1453
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:249
+msgid "Sample rate"
+msgstr "Taux d'échantillonage"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:316
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1448
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:245
+msgid "Bitrate"
+msgstr "Débit"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:317
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1443
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:241
+msgid "Length"
+msgstr "Longueur"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:318
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1438
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:237
+msgid "Genre"
+msgstr "Genre"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:320
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1433
+msgid "Number"
+msgstr "Numéro"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:321
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1428
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:229
+msgid "Comment"
+msgstr "Commentaire"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:323
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1423
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:225
+msgid "Year"
+msgstr "Année"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:324
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1418
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:221
+msgid "Title"
+msgstr "Titre"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:325
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1413
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:217
+msgid "Album"
+msgstr "Album"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:326
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1408
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:213
+msgid "Artist"
+msgstr "Artiste"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:331
+msgid "File date"
+msgstr "Date du fichier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:333
+msgid "File size"
+msgstr "Taille du fichier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:333
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:358
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:385
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:400
+msgid "bytes"
+msgstr "octets"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:334
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:978
+msgid "File name"
+msgstr "Nom du fichier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:342
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:367
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:409
+msgid "Virtual path"
+msgstr "Chemin virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:346
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:371
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:413
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1350
+msgid "Physical path"
+msgstr "Chemin réel"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:356
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:398
+#, fuzzy
+msgid "Folder date"
+msgstr "Date du dossier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:358
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:400
+#, fuzzy
+msgid "Folder size"
+msgstr "Taille du dossier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:359
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:401
+#, fuzzy
+msgid "Folder name"
+msgstr "Nom du dossier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:379
+#, fuzzy
+msgid "Last updated"
+msgstr "Dernière mise à jour"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:382
+#, fuzzy
+msgid "Cataloged"
+msgstr "Catalogué"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:385
+#, fuzzy
+msgid "Volume size"
+msgstr "Taille du volume"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:437
+#, fuzzy
+msgid "Folder information"
+msgstr "Informations sur le dossier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:441
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.h:45
+msgid "File information"
+msgstr "Informations sur le fichier"
+
+#: Z:\Sviluppo_C++\VVV\src/dlg_file_information.cpp:469
+msgid "Copy to clipboard\tCtrl+C"
+msgstr "Copier dans le presse-papier par <CTRL+C>"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:190
+msgid "Use this window to export data to a CSV file"
+msgstr ""
+"Utilisez cette fenêtre pour exporter les données vers un fichier \"CSV\""
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:194
+msgid "Comma"
+msgstr "virgule"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:195
+msgid "TAB"
+msgstr "Touche \"Tabulation\""
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:196
+msgid "Pipe"
+msgstr "Redirection"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:197
+msgid "Separator"
+msgstr "Séparateur"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:201
+msgid "Include headers"
+msgstr "Inclure les en-têtes"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:206
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1009
+msgid "All physical volumes"
+msgstr "Tous les volumes réels"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:207
+msgid "Selected physical volume/folder"
+msgstr "Ce volume ou dossier réel est sélectionné"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:208
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1011
+msgid "Selected virtual folder"
+msgstr "Ce dossier virtuel est sélectionné"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:209
+msgid "Export"
+msgstr "Exporter"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:213
+msgid "File name:"
+msgstr "Nom du fichier:"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:308
+msgid "CSV files (*.csv;*.txt)|*.csv;*.txt|All files (*.*)|*.*"
+msgstr "fichiers CSV (*.csv;*.txt)|*.csv;*.txt|Tous les fichiers (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:335
+msgid "Please enter a file name"
+msgstr "Veuillez entrer un nom de fichier"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:340
+msgid "The output file already exists: do you want to overwrite it?"
+msgstr "Le nom de ce fichier existe déjà: voulez vous le remplacer ?"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:343
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:357
+msgid "Unable to create the file."
+msgstr "La création de ce fichier est impossible."
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1337
+msgid "Size"
+msgstr "Taille"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1341
+msgid "Ext"
+msgstr "Extension"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1345
+msgid "Last modified"
+msgstr "Dernière modification"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+msgid "PhysicalPath"
+msgstr "Chemin réel"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:537
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:999
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1353
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1358
+msgid "Description"
+msgstr "Description"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+msgid "Volume"
+msgstr "Volume"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.cpp:539
+msgid "Path"
+msgstr "Chemin"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:777
+msgid ""
+"This catalog file does not exist:\n"
+"\n"
+msgstr ""
+"Ce fichier catalogue n'existe pas:\n"
+"\n"
+
+#. Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:839
+msgid "&New..."
+msgstr "Nouveau..."
+
+#. Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:840
+msgid "&Open..."
+msgstr "Ouvrir..."
+
+#. Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:841
+msgid "&Export..."
+msgstr "Exporter..."
+
+#. Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:843
+msgid "&Backup..."
+msgstr "Sauvegarder..."
+
+#. Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:844
+msgid "&Restore..."
+msgstr "Restaurer..."
+
+#. Part of the File menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:846
+msgid "E&xit"
+msgstr "Quitter"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:847
+msgid "&File"
+msgstr "Fichier"
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:849
+msgid "&Add To Virtual Folder..."
+msgstr "Ajouter dans le dossier virtuel"
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:851
+msgid "&Rename...\tF2"
+msgstr "Renommer...\tF2"
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:852
+msgid "&Delete"
+msgstr "Supprimer"
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:854
+#, fuzzy
+msgid "&Object Information..."
+msgstr "Informations sur l'élément..."
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:856
+msgid "&New Virtual Root Folder..."
+msgstr "Nouveau dossier virtuel principal..."
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:857
+msgid "New Virtual &Subfolder..."
+msgstr "Nouveau sous-dossier virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:859
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:888
+msgid "&Options..."
+msgstr "Options..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:861
+msgid "&Edit"
+msgstr "Edition"
+
+#. Part of the Volumes menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:863
+msgid "&Catalog Volume..."
+msgstr "Cataloguer le volume..."
+
+#. Part of the Volumes menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:864
+msgid "&Update Volume..."
+msgstr "Mettre à jour le volume..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:865
+msgid "&Volumes"
+msgstr "Volumes"
+
+#. Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:867
+msgid "&Physical View"
+msgstr "État réel"
+
+#. Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:869
+msgid "&Virtual View"
+msgstr "État virtuel"
+
+#. Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:870
+msgid "&Search View"
+msgstr "Recherche à vue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:872
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3310
+msgid "Show in physical view"
+msgstr "Montrer l'état réel"
+
+#. Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:873
+msgid "Go &Up One Level"
+msgstr "Remonter d'un niveau"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:874
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2711
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2744
+msgid "Expand"
+msgstr "Développer"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:875
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2712
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2745
+msgid "Collapse"
+msgstr "Réduire"
+
+#. Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:877
+msgid "&Toolbar"
+msgstr "Barre d'outils"
+
+#. Part of the View menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:879
+msgid "Status &Bar"
+msgstr "Barre d'état"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:881
+msgid "Vie&w"
+msgstr "Vue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:883
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3319
+msgid "Open with default program"
+msgstr "Ouvrir avec le programme associé"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:890
+msgid "&Tools"
+msgstr "Outils"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:892
+msgid "Help &Contents"
+msgstr "Aide & détails"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:896
+msgid "&About VVV..."
+msgstr "À propos de VVV..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:904
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4201
+msgid "New"
+msgstr "Nouveau"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:904
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4201
+msgid "Create a new catalog"
+msgstr "Créer un nouveau catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:907
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4204
+msgid "Open"
+msgstr "Ouvrir"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:907
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4204
+msgid "Open an existing catalog"
+msgstr "Ouvrir un catalogue existant"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:910
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4207
+msgid "Catalog a new volume"
+msgstr "Cataloguer un nouveau volume"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:913
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4210
+msgid "Up"
+msgstr "Haut"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:913
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4210
+msgid "Move up one level"
+msgstr "Monter d'un niveau"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:917
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4214
+msgid "Physical"
+msgstr "Réel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:917
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4214
+msgid "Show the physical view"
+msgstr "Montrer l'état réel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:920
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4217
+msgid "Virtual"
+msgstr "Virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:920
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4217
+msgid "Show the virtual view"
+msgstr "Montrer l'état virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:923
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1012
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1018
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4220
+msgid "Search"
+msgstr "Rechercher"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:923
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4220
+msgid "Show the search view"
+msgstr "Montrer l'état de la recherche"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:975
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:996
+msgid "Is equal to:"
+msgstr "Est égal à:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:976
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:997
+msgid "Starts with:"
+msgstr "Débute par:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:977
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:998
+msgid "Contains:"
+msgstr "Contient:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:987
+msgid "Extension:"
+msgstr "Extension:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1010
+msgid "Selected physical folder"
+msgstr "Répertoire réel sélectionné"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1487
+msgid "Open catalog"
+msgstr "Ouvrir le catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:1491
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3794
+msgid "VVV  files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "Fichiers VVV (*.vvv)|*.vvv|Tous les fichiers (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2064
+msgid "New virtual root folder"
+msgstr "Nouveau dossier virtuel principal"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2092
+msgid "New virtual subfolder"
+msgstr "Nouveau sous-dossier virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2110
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3552
+msgid "Enter the new folder name"
+msgstr "Entrez le nom du nouveau dossier"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2125
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3563
+msgid "The new folder name is already present in the database"
+msgstr "Le nom du nouveau dossier est déjà présent dans la base de données"
+
+#. When this message appears?
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2178
+#, fuzzy
+msgid "This catalog file does not exist any more"
+msgstr "Ce fichier catalogue n'existe plus"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2208
+msgid ""
+"Catalog not found:\n"
+"\n"
+msgstr ""
+"Catalogue non trouvé:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2212
+msgid ""
+"Incorrect username or password for the following database:\n"
+"\n"
+msgstr ""
+"Nom d'utilisateur ou mot de passe incorrect pour la base de donnée:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2217
+msgid ""
+"Unable to connect to the following server:\n"
+"\n"
+msgstr ""
+"Impossible de se connecter au serveur:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2219
+msgid ""
+"Unable to open the catalog.\n"
+"Please note that you are not connected to a database server so you cannot "
+"open a catalog located on another computer in the network.\n"
+"If you want to open a catalog on another computer you must connect to the "
+"database server (Tools/Options menu)."
+msgstr ""
+"Impossible d'ouvrir le catalogue.\n"
+"Veuillez noter que vous n'êtes pas connecté a un serveur de base de données "
+"et donc que vous ne pouvez pas ouvrir de catalogue situé sur un autre "
+"ordinateur du réseau.\n"
+"Si vous voulez ouvrir un catalogue sur un autre ordinateur vous devez vous "
+"connecter a un server de base de données (Menu Outils/Options)."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2241
+msgid ""
+"This catalog has been created with a previous version of the program and it "
+"needs to be upgraded, but the file containing the upgrades list is missing.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Ce catalogue a été créé avec une version précédente du programme. \n"
+"Il doit être mis à jour mais le fichier requis est absent.\n"
+"\n"
+"Vous pouvez réinstaller le programme pour tenter de résoudre ce problème."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2245
+msgid "Upgrading the catalog, please wait..."
+msgstr "Mise à jour du catalogue, veuillez patienter..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2257
+msgid ""
+"This catalog has been created with an older version of VVV so you need to "
+"convert it to a newer format.\n"
+"\n"
+msgstr ""
+"Ce catalogue a été créé avec une ancienne version de VVV.\n"
+"Il faut le convertir en un format plus récent.\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2258
+msgid ""
+"The conversion will create a new catalog with the same data as the older "
+"one, then you will use this new catalog with VVV. You will not use the older "
+"catalog any more.\n"
+"\n"
+msgstr ""
+"La conversion va créer un nouveau catalogue de même contenu. \n"
+"Vous pourrez utiliser ce nouveau catalogue avec VVV. \n"
+"Vous n'utiliserez plus l'ancien.\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2259
+#, fuzzy
+msgid "Do you want to convert the catalog creating a new one?"
+msgstr "Souhaitez vous convertir le catalogue en créant un nouveau ?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2263
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2492
+msgid ""
+"Unable to create a new catalog.\n"
+"\n"
+"You are connecting to a database server on another computer. You must "
+"execute this program on the server to be able to create a new catalog."
+msgstr ""
+"Impossible de créer un nouveau catalogue.\n"
+"\n"
+"Vous vous connectez à un serveur de base de données sur un autre ordinateur. "
+"Vous devez lancer ce programme sur le serveur pour pouvoir créer un nouveau "
+"catalogue."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2267
+msgid "Convert to a new catalog"
+msgstr "Convertir vers un nouveau catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2275
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2504
+msgid ""
+"Unable to find the database backup to restore.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Impossible de trouver la sauvegarde de la base de donnée à restaurer.\n"
+"\n"
+"Vous pouvez réinstaller le programme pour tenter de résoudre ce problème."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2457
+msgid ""
+"VVV (Virtual Volumes View): a program to catalog removable devices like CDs "
+"and DVDs"
+msgstr ""
+"VVV (Voir des Volumes Virtuels) est un programme qui catalogue des unités "
+"amovibles comme les CDs et les DVDs"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2458
+msgid "Copyright (C) 2007-2023 The VVV Team"
+msgstr "Copyright (C) 2007-2023 L'équipe VVV"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2459
+msgid "Fulvio Senore: main developer"
+msgstr "Fulvio Senore: développeur principal"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2460
+msgid ""
+"\n"
+"Jan Albartus: worked at the portable version and designed the application's "
+"icon"
+msgstr ""
+"\n"
+"Jan Albartus: a travaillé sur la version portable et a créé l'icône de "
+"l'application"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2461
+msgid ""
+"This program uses icons from the Gnome, Ubuntu and Crystal icons projects"
+msgstr ""
+"Ce programme utilise des icônes des projets \"Gnome\", \"Ubuntu\" et "
+"\"Crystal icons\""
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2462
+msgid ""
+"This is open source software, distributed under the GNU GENERAL PUBLIC "
+"LICENSE"
+msgstr ""
+"Ceci est un logiciel libre, distribué sous licence GNU - GENERAL PUBLIC "
+"LICENSE"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2475
+msgid "Serbian"
+msgstr "Serbe"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2496
+msgid "New catalog"
+msgstr "Nouveau catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2546
+msgid "Multiple items"
+msgstr "Éléments multiples"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2709
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3316
+msgid "Add To Virtual Folder"
+msgstr "Ajouter au dossier virtuel"
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2714
+#, fuzzy
+msgid "Object information..."
+msgstr "Informations sur l'élément... "
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2717
+msgid "Rename..."
+msgstr "Renommer..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2718
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2749
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3312
+msgid "Delete"
+msgstr "Effacer"
+
+#. Part of the Volumes menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2719
+msgid "Update Volume..."
+msgstr "Mettre le volume à jour..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2742
+msgid "New Subfolder"
+msgstr "Nouveau sous-dossier"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2748
+msgid "Rename"
+msgstr "Renommer"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2890
+msgid "Please enter some search data"
+msgstr "Veuillez entrer du contenu à rechercher"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2909
+msgid "Incorrect file name search data"
+msgstr "Le contenu des données de recherche de nom est incorrect"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2920
+msgid "Incorrect extension search data"
+msgstr "Le contenu des données de recherche d'extension est incorrect"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:2932
+msgid "Incorrect description search data"
+msgstr "La description des données de recherche est incorrecte"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3043
+msgid "The search did not find anything"
+msgstr "La recherche n'a rien donné"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3202
+msgid "Objects: "
+msgstr "Éléments:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3209
+msgid "Total size: "
+msgstr "Taille totale:"
+
+#. Part of the Edit menu
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3322
+#, fuzzy
+msgid "Object Information..."
+msgstr "Informations sur l'élément..."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3460
+msgid ""
+"This command will delete the selected virtual folder, but it will not change "
+"the folders in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual folder?"
+msgstr ""
+"Cette commande supprimera le dossier virtuel sélectionné, mais ne changera "
+"pas les répertoires dans l'état réel.\n"
+"\n"
+"Voulez-vous vraiment supprimer le dossier virtuel sélectionné ?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3486
+msgid ""
+"This command will delete this volume:\n"
+"\n"
+msgstr ""
+"Cette commande supprimera le volume:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3486
+msgid ""
+"\n"
+"\n"
+"from the VVV catalog. It will not delete any file from your disk.\n"
+"\n"
+"Do you really want to delete this volume?"
+msgstr ""
+"\n"
+"\n"
+"du catalogue VVV. Il n'effacera rien sur votre disque.\n"
+"\n"
+"Voulez-vous vraiment supprimer ce volume ?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3496
+msgid ""
+"Unable to delete this volume: at least one of its files is used in the "
+"virtual view"
+msgstr ""
+"Impossible de supprimer ce volume: au moins un de ses fichiers est utilisé "
+"par l'état virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3518
+msgid "Enter the new volume name"
+msgstr "Entrez le nom du nouveau volume"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3518
+msgid "Rename volume"
+msgstr "Renommer le volume"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3531
+msgid "The new volume name is already present in the database"
+msgstr "Ce nom de nouveau volume existe dans la base de donnée"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3552
+msgid "Rename virtual folder"
+msgstr "Renommer le dossier virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3675
+#, fuzzy
+msgid ""
+"This command will delete the selected files from the virtual view, but it "
+"will not change the files in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual files?"
+msgstr ""
+"Cette commande supprimera les fichiers sélectionnés de l'état virtuel\n"
+" mais ne modifiera pas les fichiers de l'état réel.\n"
+"Voulez-vous vraiment supprimer les fichiers virtuels sélectionnés ?"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3817
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3894
+msgid ""
+"Unable to continue. You have choosen an existing file:\n"
+"\n"
+msgstr ""
+"Impossible de continuer. Ce nom de fichier existe déjà:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3817
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3894
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3976
+msgid ""
+"\n"
+"\n"
+"You must type the name of a non-existing file."
+msgstr ""
+"\n"
+"\n"
+"Vous devez entrer un nom de fichier non-existant."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3826
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3903
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3985
+msgid ""
+"Unable to continue: you have choosen a folder where you do not have the "
+"right to create a file."
+msgstr ""
+"Impossible de continuer: vous avez choisi un dossier dont l'accès est "
+"interdit."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3871
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:254
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:285
+msgid "VVV backup files (*.vvvbk)|*.vvvbk|All files (*.*)|*.*"
+msgstr ""
+"Fichiers de sauvegarde VVV  (*.vvvbk)|*.vvvbk|Tous les fichiers  (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3872
+msgid "Backup catalog"
+msgstr "Sauvegarder le catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3917
+msgid "Backup completed"
+msgstr "Sauvegarde terminée"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3940
+msgid ""
+"Unable to restore.\n"
+"\n"
+"You are connecting to a database server on another computer. You must "
+"execute this command on the server to be able to restore a catalog."
+msgstr ""
+"Impossible de lancer la restauration.\n"
+"\n"
+"Vous vous connectez à un serveur de base de données situé sur un autre "
+"ordinateur. Cette commande doit être lancée sur le serveur approprié."
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3954
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:396
+msgid "The catalog name is missing"
+msgstr "Le nom du catalogue est manquant"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3958
+msgid "The backup name is missing"
+msgstr "Le nom de la sauvegarde est manquant"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:3976
+msgid ""
+"Unable to continue. You have choosen an existing catalog:\n"
+"\n"
+msgstr ""
+"Impossible de continuer. Vous avez choisi un catalogue pré-existant:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4013
+msgid "Restore completed"
+msgstr "Restauration terminée"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4423
+#, fuzzy
+msgid ""
+"This volume has been cataloged with an older version of VVV. You need to "
+"update it in order to open files."
+msgstr ""
+"Ce volume a été catalogué avec une ancienne version de VVV. Vous devez le "
+"mettre à jour pour ouvrir des fichiers.\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4444
+#, fuzzy
+msgid "Unable to find the folder:"
+msgstr "Impossible de trouver le dossier:"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.cpp:4450
+#, fuzzy
+msgid "Unable to find the file:"
+msgstr "Impossible de trouver le fichier:"
+
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:146
+msgid "Please enter the description for the following object:"
+msgstr "Veuillez entrer la description de l'élément suivant:"
+
+#: Z:\Sviluppo_C++\VVV\src/object_description.cpp:149
+msgid "OBJECT NAME"
+msgstr "NOM DE L'ÉLÉMENT"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:162
+msgid ""
+"You are about to open a catalog located on the server.\n"
+"\n"
+"Enter the alias or the complete path to the catalog file.\n"
+"Remember that the path must be relative to the server, not to the client."
+msgstr ""
+"Vous allez ouvrir un catalogue situé sur le serveur. \n"
+"\n"
+"Entrez le nom complet du chemin du fichier catalogue ou son alias.\n"
+"Attention ce nom est celui du serveur, et non du client."
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:256
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:303
+msgid "VVV files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "Fichiers VVV (*.vvv)|*.vvv|Tous les fichiers  (*.*)|*.*"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:276
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.h:63
+msgid "Open Catalog"
+msgstr "Ouvrir le catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:280
+msgid "New Catalog"
+msgstr "Nouveau catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/opencatalog.cpp:284
+msgid "Backup"
+msgstr "Sauvegarde"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:152
+msgid ""
+"You are about to create a new catalog from a backup file.\n"
+"\n"
+"Enter the complete path to the backup file and to the catalog file that will "
+"be created.\n"
+"You cannot enter the name of an existing catalog."
+msgstr ""
+"Vous allez créer un nouveau catalogue à partir d'un fichier de sauvegarde.\n"
+"\n"
+"Entrez les noms complets des chemins du fichier de sauvegarde et du fichier "
+"catalogue à créer.\n"
+"Entrez un nom de catalogue non-existant."
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:157
+msgid "Backup file:"
+msgstr "Fichier de sauvegarde:"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:169
+msgid "New catalog:"
+msgstr "Nouveau catalogue:"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:284
+msgid "Select backup file"
+msgstr "Sélectionner le fichier de sauvegarde"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.cpp:302
+msgid "Catalog file"
+msgstr "Fichier catalogue"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:175
+msgid "Reopen the last used catalog at startup"
+msgstr "Démarrer avec le dernier catalogue utilisé"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:179
+msgid "Alternate row colors"
+msgstr "Alterner les couleurs des rangs"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:185
+msgid "Beep for tasks longer than (seconds):"
+msgstr "Émettre un \"bip\" si la durée du travail dépasse ...  (secondes):"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:193
+msgid "Change language"
+msgstr "Changer la langue"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:196
+msgid "General"
+msgstr "Général"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:204
+#, fuzzy
+msgid "Catalog audio metadata"
+msgstr "Cataloguer les metadata audio"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:210
+msgid "Show the following data for audio files:"
+msgstr "Afficher les caractéristiques suivantes des fichiers audio:"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:233
+msgid "Track number"
+msgstr "Numéro de piste"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:259
+msgid "Audio files"
+msgstr "Fichiers audio"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:267
+msgid ""
+"Check the checkbox below if you want to access catalogs stored\n"
+"in a network server. Each computer in the network will be able to\n"
+"access the same catalogs stored in the server.\n"
+"DO NOT check the checkbox if you only want to access catalogs\n"
+"stored in this computer and you do not want to share them\n"
+"with other computers."
+msgstr ""
+"Voyez la case à cocher ci-dessous. \n"
+"- Validez-la si vous souhaitez accéder aux catalogues d'un serveur\n"
+" réseau, chaque ordinateur du réseau pourra y accéder.\n"
+"- NE PAS la valider si vous souhaitez seulement accéder aux catalogues de "
+"cet ordinateur-ci ET si vous ne voulez pas les partager avec d'autres "
+"ordinateurs."
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:272
+msgid "Connect to a network server"
+msgstr "Se connecter à un serveur réseau"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:278
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:303
+msgid "Server"
+msgstr "Serveur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:284
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:290
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:300
+msgid "Test server connection"
+msgstr "Tester la connexion au serveur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:392
+msgid "You must enter a server name or address"
+msgstr "Vous devez entrer un nom ou une adresse de serveur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:396
+msgid "You must enter a username"
+msgstr "Vous devez entrer un nom d'utilisateur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:400
+msgid "You must enter a password"
+msgstr "Vous devez entrer un mot de passe"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:463
+msgid "You must enter the server name or address"
+msgstr "Vous devez entrer le nom ou l'adresse du serveur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:468
+msgid "Unable to connect to the server"
+msgstr "Impossible de se connecter au serveur"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.cpp:470
+msgid "Server connection successful"
+msgstr "La connection au serveur est établie"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:178
+msgid "You are about to update the following volume:"
+msgstr "Vous allez à mettre à jour le volume suivant:"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:181
+msgid "VOLUME NAME"
+msgstr "NOM du VOLUME"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:186
+msgid "Enter or select the path to volume to update"
+msgstr "Entrez ou choisissez le chemin du volume à mettre à jour"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.cpp:206
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:300 Z:\Sviluppo_C++\VVV\src/vvv.cpp:356
+msgid ""
+"Unable to connect to the server\n"
+"\n"
+msgstr ""
+"Impossible de se connecter au serveur\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:302 Z:\Sviluppo_C++\VVV\src/vvv.cpp:308
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:358 Z:\Sviluppo_C++\VVV\src/vvv.cpp:364
+msgid ""
+"An unexpected error has occurred. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Erreur inattendue rencontrée ! Voici sa description:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:314 Z:\Sviluppo_C++\VVV\src/vvv.cpp:370
+msgid "An unexpected error has occurred. This application will be terminated"
+msgstr "Erreur inattendue rencontrée ! L'application va être fermée"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:382 Z:\Sviluppo_C++\VVV\src/vvv.cpp:466
+msgid ""
+"An unexpected error has happened. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Erreur inattendue rencontrée ! Voici sa description:\n"
+"\n"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:408
+msgid "The volume path does not exists"
+msgstr "Le chemin de ce volume n'existe pas"
+
+#: Z:\Sviluppo_C++\VVV\src/vvv.cpp:449
+msgid "Volume name not found"
+msgstr "Nom de volume introuvable"
+
+#: Z:\Sviluppo_C++\VVV\src/catalog_volume.h:72
+msgid "Catalog volume"
+msgstr "Cataloguer le volume"
+
+#: Z:\Sviluppo_C++\VVV\src/choose_virtual_folder.h:68
+msgid "Choose virtual folder"
+msgstr "Choisir un dossier virtuel"
+
+#: Z:\Sviluppo_C++\VVV\src/exportdata.h:65
+msgid "Export data"
+msgstr "Exporter les données"
+
+#: Z:\Sviluppo_C++\VVV\src/mainframe.h:85
+msgid "VVV"
+msgstr "VVV"
+
+#: Z:\Sviluppo_C++\VVV\src/object_description.h:51
+msgid "Object Description"
+msgstr "Description de l'élément"
+
+#: Z:\Sviluppo_C++\VVV\src/restore.h:41
+msgid "Restore"
+msgstr "Restaurer"
+
+#: Z:\Sviluppo_C++\VVV\src/settings.h:56
+msgid "Settings"
+msgstr "Préférences"
+
+#: Z:\Sviluppo_C++\VVV\src/update_volume.h:62
+msgid "Update Volume"
+msgstr "Mettre à jour le volume"
