@@ -4,7 +4,7 @@ This is a work that needs to be done only once, then the translation will be ava
 
 Here are some instructions for volunteers interested in translating VVV.
 
-Copy [vvv.po](/translations/empty .po file/vvv.po) the file that contains the sentences to be translated.
+Copy [vvv.po](/translations/empty-po-file/vvv.po) the file that contains the sentences to be translated.
 
 Then download and install the [Poedit program](http://www.poedit.net/).
 
@@ -18,6 +18,6 @@ Now you are ready to start the translation. Click a sentence in the upper part o
 
 When you have translated some sentences you can save the file and exit Poedit. You can read the online help to learn more about Poedit.
 
-When you save, Poedit will create a ***vvv.mo** file. To test your translation create a subfolder in the **languages** folder inside the folder where VVV has been installed. For example, create a folder named `languages\fr` for a French translation or `languages\nl` for a Dutch translation.
+When you save, Poedit will create a **vvv.mo** file. To test your translation create a subfolder in the **languages** folder inside the folder where VVV has been installed. For example, create a folder named `languages\fr` for a French translation or `languages\nl` for a Dutch translation.
 
 Put a copy of **vvv.mo** in that folder and start VVV. You should be able to test VVV in your language.
