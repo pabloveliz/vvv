@@ -16,5 +16,7 @@ VVV can show the content of your disks in three different views:
 - **virtual**: everything is organized as a single virtual file system. You can create folders and you can assign physical volumes or folders to each virtual folder. You can assign the same file to more than one virtual folder, and each virtual folder can contain files that are stored in different disks.
 - **search**: you can search the catalog looking for files that meet your specification.
 
+[How to Build](docs/BUILD.md)
+
 > [!NOTE]
 > The orignal work is from [VVV-1.5-src](https://www.fsoft.it/VVV/index.html) you can add [translations](docs/TRANSLATE.md) or check the [original authors page](docs/README.md)

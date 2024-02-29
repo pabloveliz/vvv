@@ -4,7 +4,7 @@ This is a work that needs to be done only once, then the translation will be ava
 
 Here are some instructions for volunteers interested in translating VVV.
 
-Copy [vvv.po](translations/empty .po file/vvv.po) the file that contains the sentences to be translated.
+Copy [vvv.po](/translations/empty .po file/vvv.po) the file that contains the sentences to be translated.
 
 Then download and install the [Poedit program](http://www.poedit.net/).
 
